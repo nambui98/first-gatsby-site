@@ -24,7 +24,7 @@ const Header = ({ siteTitle }) => (
 						textDecoration: 'none'
 					}}
 				>
-					Nam Bùi
+					Đức Nguyễn
 				</Link>
 				<ul style={{ listStyle: 'none', float: 'right' }}>
 					<li style={{ display: 'inline-block', marginRight: '1rem' }}>
